@@ -1,4 +1,5 @@
-#EXTM3U#EXTINF:-1,Rai 1 HD
+#EXTM3U
+#EXTINF:-1,Rai 1 HD
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/292.ts
 #EXTINF:-1,Rai 2 HD
 http://b2c.newbs2newbs2.net:80/live/fabio4luglio/trigoria2017/290.ts
